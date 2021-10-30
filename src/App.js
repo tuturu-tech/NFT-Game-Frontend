@@ -21,6 +21,8 @@ const App = () => {
     try {
       const { ethereum } = window;
 
+      setIsLoading(false);
+
       if (!ethereum) {
         console.log("Make sure you have MetaMask!");
         return;

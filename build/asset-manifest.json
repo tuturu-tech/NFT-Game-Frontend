@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NFT-Game-Frontend/static/css/main.5696eb78.chunk.css",
-    "main.js": "/NFT-Game-Frontend/static/js/main.f64d7f69.chunk.js",
-    "main.js.map": "/NFT-Game-Frontend/static/js/main.f64d7f69.chunk.js.map",
+    "main.js": "/NFT-Game-Frontend/static/js/main.2d8bd7ff.chunk.js",
+    "main.js.map": "/NFT-Game-Frontend/static/js/main.2d8bd7ff.chunk.js.map",
     "runtime-main.js": "/NFT-Game-Frontend/static/js/runtime-main.b8c98080.js",
     "runtime-main.js.map": "/NFT-Game-Frontend/static/js/runtime-main.b8c98080.js.map",
     "static/js/2.471f6ada.chunk.js": "/NFT-Game-Frontend/static/js/2.471f6ada.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.b8c98080.js",
     "static/js/2.471f6ada.chunk.js",
     "static/css/main.5696eb78.chunk.css",
-    "static/js/main.f64d7f69.chunk.js"
+    "static/js/main.2d8bd7ff.chunk.js"
   ]
 }
